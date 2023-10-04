@@ -7,7 +7,7 @@ const Footer = () => {
       <Stack gap='40px' alignItems='center' px='40px' pt='24px'>
         <img src={Logo} alt="logo" width='200px' height='100px'/>
         <Typography variant='h5' pb='40px' mt='20px'>
-        Copyright © 2023 Anubhav Singh | All Rights Reserved
+        Copyright © 2023 Nishant Kumar | All Rights Reserved
         </Typography>
       </Stack>
     </Box>
